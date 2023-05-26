@@ -21,8 +21,8 @@ global.lApiKey = [ // if this API key get expired then please go to https://api.
 ]
 
 
-global.botname = "Queen Anya" 
-global.author = "𝙋𝙄𝙆𝘼"  
+global.botname = "Arslan" 
+global.author = "Arslan"  
 global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
 global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
@@ -33,8 +33,8 @@ global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
 
 
-global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['918811074852'] 
+global.ownername = "Arslan king"   // Owner name //        
+global.ownernumber = ['923493436993'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
